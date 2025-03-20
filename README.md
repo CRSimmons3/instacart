@@ -17,7 +17,7 @@ The above data was taken from "The Instacart Online Grocery Shopping
 There was an additional customer dataset created by Career Foundry.
 
 ## Tools
-For this project, the following python libraries were used:
+For this project, the following Python libraries were used:
 
 - pandas - for data analysis
 - seaborn - for visualisation
