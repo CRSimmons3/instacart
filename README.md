@@ -24,3 +24,11 @@ For this project, the following Python libraries were used:
 
 ## Code
 The code is available as jupyter notebooks, available in the Scripts folder.
+
+## Final report
+The final report is in the folder "Sent to client" and contains:
+- population flow
+- integrity checks
+- column derivations and aggregations
+- visualisations
+- recommendations
